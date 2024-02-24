@@ -1,0 +1,13 @@
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.deps.json
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.sourcelink.json
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\refint\HouseRentingSystem.Infrastructure.dll
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Sherif\Desktop\Git\SoftUni-ASP.NET-Advanced-February-2024\01\HouseRentingSystem.Infrastructure\obj\Debug\net6.0\ref\HouseRentingSystem.Infrastructure.dll
